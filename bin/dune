@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name colorful-waves)
+ (libraries colorful_waves claudius))

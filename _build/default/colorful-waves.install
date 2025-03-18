@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/colorful-waves/META"
+  "_build/install/default/lib/colorful-waves/dune-package"
+  "_build/install/default/lib/colorful-waves/opam"
+]
+bin: [
+  "_build/install/default/bin/colorful-waves"
+]
+doc: [
+  "_build/install/default/doc/colorful-waves/README.md"
+]

@@ -1,0 +1,7 @@
+; (library
+;  (name colorful_waves)
+;  (public_name colorful-waves)
+;  (libraries claudius))
+
+(library
+ (name colorful_waves))

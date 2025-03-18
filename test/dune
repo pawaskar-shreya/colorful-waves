@@ -1,0 +1,6 @@
+; (test
+;  (name test_colorful_waves)
+;  (libraries ounit2 colorful_waves))
+
+(test
+ (name test_colorful_waves))

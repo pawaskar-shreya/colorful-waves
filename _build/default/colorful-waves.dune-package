@@ -1,0 +1,7 @@
+(lang dune 3.17)
+(name colorful-waves)
+(sections (lib .) (bin ../../bin) (doc ../../doc/colorful-waves))
+(files
+ (lib (META dune-package opam))
+ (bin (colorful-waves))
+ (doc (README.md)))
